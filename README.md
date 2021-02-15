@@ -1,4 +1,4 @@
-# Pligrims
+# Plagiarism
 - A GUI Application that takes in input 2 documents in form of pdf or txt . Accordingly it will display the similarity between the 2 documents and will give a summary of the 2 documents ie. 35 percent of it. 
 - Can be also applicable for OCR as well.
 - Used various techniques of NLP for text summarisation and finding similarities .
